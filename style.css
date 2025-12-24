@@ -35,7 +35,7 @@ body {
 .hero {
   background: var(--bg-hero);
   text-align: center;
-  padding: 80px 20px;
+  padding: 20px 20px;
 }
 
 .profile {
@@ -483,3 +483,4 @@ footer a:hover {
     transform: none;
   }
 }
+
